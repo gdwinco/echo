@@ -4,6 +4,7 @@ Simple Docker file that  builds from a base image in the Red Hat Container Catal
 
 ## OpenShift Command Line
 `oc new-project demo-project`
+
 `oc new-app https://github.com/gdwinco/echo`
 
 ## Sample Output
